@@ -1,0 +1,173 @@
+body {
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.NavBar ul li{
+    display: inline;
+    margin: 10px;
+}
+.NavBar {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(37, 37, 37);
+    color: white;
+    width: 100%;
+}
+.NavBarIcon1 {
+    height: 25px;
+    margin-bottom: -6px;
+}
+.NavBarIcon2 {
+    height: 22px;
+    margin-bottom: -5px;
+
+}
+.NavBar a {
+    text-decoration: none;
+    color: white;
+}
+.ImageContainer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 100%;
+}
+.ImageContainer a {
+    text-decoration: none;
+    font-size: 25px;
+}
+.BackgroundImage {
+    width: 100%;
+    height: 300px;
+
+}
+#Heading1 {
+    font-size:56px;
+    font-weight: 600px;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+#Heading2 {
+    font-size: 28px;
+    font-weight: 400px;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+.HeadingDiv1 {
+    padding-top: 10px;
+
+
+}
+.HeadingDiv2 {
+    margin-top: -30px;
+
+}
+.iphone14Div {
+    text-align: center;
+    background-color: rgb(251, 249, 249);
+}
+.iphone14Div a {
+    text-decoration: none;
+}
+.iphone14Image {
+    width: 100%;
+    height: 300px;
+}
+
+.Card1 {
+    display: flex;
+    gap: 10px;
+    flex-direction: row;
+    margin-left: 5px;
+    margin-right: 5px;
+
+}
+.Card1 a {
+    text-decoration: none;
+}
+
+.Macbook {
+    width: 50%;
+    text-align: center;
+    background-color: rgb(251, 249, 249);
+    height: 500px;
+}
+.VisionPro {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    position: relative;
+    height: 500px;
+    
+}
+.VisionProContent {
+    position: absolute;
+    margin-top: 300px;
+    text-align: center;
+    margin-left: 110px;
+
+}
+.Card2 {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+
+
+}
+.Card2 a {
+    text-decoration: none;
+}
+.SmartWatach {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    position: relative;
+    height: 500px;
+
+}
+.SmartWatachContent {
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 240px;
+    text-align: center;
+    color: white;
+}
+.TradeIn {
+    flex-direction: column;
+    display: flex;
+    width: 50%;
+    position: relative;
+    height: 500px;
+}
+.TradeInContent {
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 225px;
+    text-align: center
+    
+}
+.LowerDiv {
+    background-color: rgba(245,245,247,255);
+}
+#Hr1 {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.List1 {
+    list-style: none;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: left;
+}
+
+.Footer ul li {
+    display: inline;
+    margin: 10px;
+}
+.Footer a {
+    text-decoration: none;
+}
